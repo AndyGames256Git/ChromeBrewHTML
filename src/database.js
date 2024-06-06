@@ -7,12 +7,12 @@ import coverDisney from "./assets/cover-disney.png";
 export const Apps = {
   store: {
     cover: coverStore,
-    label: "PlayStation Store",
+    label: "ChromeBrew Store",
     bg:
       "https://psmedia.playstation.com/is/image/psmedia/black-friday-home-hero-desktop-tablet-01-13nov20en_1605279912558?$_CM001_HomeHero_Tablet_Landscape_And_Desktop$",
     title: "Welcome to the next generation",
     text:
-      "From the freshnest releases to curated collection, there's something for everyone.",
+      "Firmware version 5.1 (Rev1).",
   },
   explore: {
     cover: coverExplore,
