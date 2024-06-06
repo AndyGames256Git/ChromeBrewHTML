@@ -126,9 +126,9 @@ export const Games = {
     price: "$ 49,99",
     title: "Croti: Pr*xy.",
     text:
-      "Experience the rise of Miles Morales as the new hero masters incredible, explosive new powers to become his own Spider-Man.",
+      "All websites. Unbl0kd. Forever.",
     purchase:
-      "https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/",
+      "https://croti.vercel.app/",
     youtube: "NTunTURbyUU",
   },
   cod: {
