@@ -118,13 +118,13 @@ export const Games = {
   },
   spider: {
     cover:
-      "https://image.api.playstation.com/vulcan/ap/rnd/202008/1420/HcLcfeQBXd2RiQaCeWQDCIFN.jpg?w=620",
-    label: "Marvel's Spider-Man: Miles Morales",
+      "https://static.vecteezy.com/system/resources/thumbnails/000/581/808/small_2x/icon0-vector-493-01.jpg",
+    label: "Croti: Pr*xy",
     bg:
-      "https://gmedia.playstation.com/is/image/SIEPDC/spiderman-miles-morales-screenshot-03-disclaimer-en-01oct20?$2400px$",
+      "https://t4.ftcdn.net/jpg/04/28/80/91/360_F_428809170_AoHQ3mzsgEkaDSz5nKavtzmEOSUynVHo.jpg ",
     tag: "Full Game",
     price: "$ 49,99",
-    title: "Be greater. Be yourself.",
+    title: "Croti: Pr*xy.",
     text:
       "Experience the rise of Miles Morales as the new hero masters incredible, explosive new powers to become his own Spider-Man.",
     purchase:
