@@ -35,19 +35,19 @@ class Home extends Component {
         ) : (
           <div className="ps5-home-content">
             <div>
-              <p>This website is a study project about</p>
+              <p>Thanks for loading ChromeBrewHTML! The GitHub can be found</p>
               <p>
                 <a
                   target="_blank"
                   rel="noopener noreferrer"
                   className="ps5-link"
-                  href="http://playstation.com/"
+                  href="https://github.com/AndyGames256Git/ChromeBrewHTML/"
                 >
-                  PlayStation
+                  Here
                 </a>{" "}
                 5 User Experience
               </p>
-              <p>All the texts, images and links belong to them</p>
+              <p>Themed after the PS5</p>
             </div>
 
             <a
@@ -55,7 +55,7 @@ class Home extends Component {
               className="ps5-btn ps5-btn-primary"
               onClick={() => this.setState({ animation: true })}
             >
-              Continue
+              Load
             </a>
           </div>
         )}
