@@ -14,6 +14,15 @@ export const menuPrimary = [
             items: Images.spider,
           },
           {
+        app: Games.spider2,
+        lists: [
+          {
+            type: "gallery",
+            title: "Media",
+            items: Images.spider,
+          },
+          
+          {
             type: "games",
             title: "Coming Soon",
             items: [
