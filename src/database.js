@@ -122,8 +122,8 @@ export const Games = {
     label: "Croti: Pr*xy",
     bg:
       "https://t4.ftcdn.net/jpg/04/28/80/91/360_F_428809170_AoHQ3mzsgEkaDSz5nKavtzmEOSUynVHo.jpg ",
-    tag: "Full Game",
-    price: "$ 49,99",
+    tag: "Launch Game",
+    price: "Unbl0kd (latest)",
     title: "Croti: Pr*xy.",
     text:
       "All websites. Unbl0kd. Forever.",
