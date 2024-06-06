@@ -131,6 +131,21 @@ export const Games = {
       "https://croti.vercel.app/",
     
   },
+    spider2: {
+    cover:
+      "https://static.vecteezy.com/system/resources/thumbnails/000/581/808/small_2x/icon0-vector-493-01.jpg",
+    label: "Croti: Pr*xy",
+    bg:
+      "https://t4.ftcdn.net/jpg/04/28/80/91/360_F_428809170_AoHQ3mzsgEkaDSz5nKavtzmEOSUynVHo.jpg ",
+    tag: "Launch Game",
+    price: "Unbl0kd (latest)",
+    title: "Croti: Pr*xy.",
+    text:
+      "All websites. Unbl0kd. Forever.",
+    purchase:
+      "https://croti.vercel.app/",
+    
+  },
   cod: {
     cover:
       "https://gmedia.playstation.com/is/image/SIEPDC/call-of-duty-black-ops-cold-war-ultimate-edition-pack-ps4-25aug20$en?$1600px$",
