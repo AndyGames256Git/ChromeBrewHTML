@@ -12,8 +12,7 @@ export const menuPrimary = [
             type: "gallery",
             title: "Media",
             items: Images.spider,
-          },
-          {
+          };
        
           
           {
