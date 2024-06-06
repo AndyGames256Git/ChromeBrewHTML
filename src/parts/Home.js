@@ -43,9 +43,9 @@ class Home extends Component {
                   className="ps5-link"
                   href="https://github.com/AndyGames256Git/ChromeBrewHTML/"
                 >
-                  Here
+                  Here. 
                 </a>{" "}
-                5 User Experience
+                Created by Andrew Podolsky
               </p>
               <p>Themed after the PS5</p>
             </div>
