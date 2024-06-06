@@ -14,13 +14,7 @@ export const menuPrimary = [
             items: Images.spider,
           },
           {
-        app: Games.spider2,
-        lists: [
-          {
-            type: "gallery",
-            title: "Media",
-            items: Images.spider,
-          },
+       
           
           {
             type: "games",
@@ -143,6 +137,6 @@ export const menuPrimary = [
       { app: Apps.disney },
     ],
   },
-]
+];
 
 export default menuPrimary;
