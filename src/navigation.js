@@ -143,6 +143,6 @@ export const menuPrimary = [
       { app: Apps.disney },
     ],
   },
-];
+]
 
 export default menuPrimary;
