@@ -129,7 +129,7 @@ export const Games = {
       "All websites. Unbl0kd. Forever.",
     purchase:
       "https://croti.vercel.app/",
-    youtube: "https://croti.vercel.app",
+    youtube: "",
   },
   cod: {
     cover:
