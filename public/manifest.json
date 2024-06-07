@@ -1,19 +1,19 @@
 {
-  "short_name": "PS5 Online",
-  "name": "PlayStation 5 Online Simulator",
+  "short_name": "ChromeBrew5 App",
+  "name": "the ChromeBrew5 App",
   "icons": [
     {
-      "src": "favicon.ico",
+      "src": "https://infotoast.org/site/wp-content/uploads/2020/04/chromebrew.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "https://infotoast.org/site/wp-content/uploads/2020/04/chromebrew.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
+      "src": "https://infotoast.org/site/wp-content/uploads/2020/04/chromebrew.png",
       "type": "image/png",
       "sizes": "512x512"
     }
