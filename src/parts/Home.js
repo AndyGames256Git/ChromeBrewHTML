@@ -47,7 +47,7 @@ class Home extends Component {
                 </a>{" "}
                 Created by Andrew Podolsky
               </p>
-              <p>Themed after the PS5</p>
+              <p>Make sure to install as an app!</p>
             </div>
 
             <a
