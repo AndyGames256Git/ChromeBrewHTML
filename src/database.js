@@ -126,7 +126,7 @@ export const Games = {
     price: "Unbl0kd (latest)",
     title: "Croti: Pr*xy.",
     text:
-      "All websites. Unbl0kd. Forever.",
+      "All websites. Unbl0kd. Forever. More games coming soon!",
     purchase:
       "https://croti.vercel.app/",
     
