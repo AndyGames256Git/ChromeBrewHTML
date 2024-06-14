@@ -99,7 +99,7 @@ export const Games = {
     text:
       "The original (t)ugh game loader.",
     purchase:
-      "https://example.com/",
+      "https://theugh.vercel.app/",
     
   },
   sackboy: {
