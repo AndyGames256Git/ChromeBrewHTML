@@ -95,7 +95,7 @@ export const Games = {
       "https://images5.alphacoders.com/125/thumb-1920-1253868.png",
     tag: "Launch Game",
     price: "Example, in the works.",
-    title: "Lead epic raids",
+    title: "Load so many awesome games.",
     text:
       "The original (t)ugh game loader.",
     purchase:
