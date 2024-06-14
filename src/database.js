@@ -89,18 +89,18 @@ export const Games = {
   },
   assassin: {
     cover:
-      "https://image.api.playstation.com/vulcan/ap/rnd/202008/1318/8XGEPtD1xoasK0FYkYNcCn1z.png?w=440&thumb=false",
-    label: "Assassin's Creed Valhalla",
+      "https://cdn-icons-png.flaticon.com/512/8002/8002111.png",
+    label: "Latest Unbl0kd (t)Ugh",
     bg:
-      "https://gmedia.playstation.com/is/image/SIEPDC/assassins-creed-valhalla-screen-06-ps4-en-17jul20?$1600px$",
-    tag: "Full Game",
-    price: "$ 59.99",
+      "https://images5.alphacoders.com/125/thumb-1920-1253868.png",
+    tag: "Launch Game",
+    price: "Example, in the works.",
     title: "Lead epic raids",
     text:
-      "Raid your enemies, grow your settlement and build your political power in the next chapter of the Assassin’s Creed series.",
+      "The original (t)ugh game loader.",
     purchase:
-      "https://www.playstation.com/en-us/games/assassins-creed-valhalla/",
-    youtube: "gnmuEkn30ZE",
+      "https://example.com/",
+    
   },
   sackboy: {
     cover:
