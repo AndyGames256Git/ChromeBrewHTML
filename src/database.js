@@ -94,7 +94,7 @@ export const Games = {
     bg:
       "https://images5.alphacoders.com/125/thumb-1920-1253868.png",
     tag: "Launch Game",
-    price: "Example, in the works.",
+    price: "Latest Unbl0kd version :)",
     title: "Load so many awesome games.",
     text:
       "The original (t)ugh game loader.",
