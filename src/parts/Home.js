@@ -35,7 +35,7 @@ class Home extends Component {
         ) : (
           <div className="ps5-home-content">
             <div>
-              <p>Thanks for loading ChromeBrewHTML! The GitHub can be found</p>
+              <p>Thanks for loading ChromeStore! The GitHub can be found</p>
               <p>
                 <a
                   target="_blank"
