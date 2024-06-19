@@ -166,17 +166,17 @@ export const Games = {
   },
   god: {
     cover:
-      "https://image.api.playstation.com/vulcan/ap/rnd/202008/1219/RI4EFJiSo8JZF8EZNPYTDwo4.png?w=440&thumb=false",
-    label: "Godfall",
+      "https://preview.redd.it/minecraft-logo-v0-ak9w918zi5r81.png?auto=webp&s=614e5180aa1f7068676a06351c8edffc86b3b58a",
+    label: "Minecraft/Eaglercraft",
     bg:
-      "https://gmedia.playstation.com/is/image/SIEPDC/godfall-screen-05-ps5-en-01oct20?$1600px--t$",
-    tag: "Full Game",
-    price: "$ 69,99",
-    title: "Godfall",
+      "https://w0.peakpx.com/wallpaper/105/594/HD-wallpaper-video-game-minecraft.jpg",
+    tag: "Launch Game",
+    price: "Unbl0kd",
+    title: "Play Minecraft online.",
     text:
-      "Hunt for loot and don legendary armor sets in a new looter-slasher for PlayStation 5.",
-    purchase: "https://www.playstation.com/en-us/games/godfall/",
-    youtube: "Y9M_beKzmjY",
+      "Use this custom launcher to play Minecraft online.",
+    purchase: "https://launcher.orionzleon.me/",
+    
   },
   cyberpunk: {
     cover:
