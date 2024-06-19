@@ -71,7 +71,7 @@ export const Games = {
     title:
       "Play classics. DOOM 1993 is a great one.",
     text:
-      "Entirely rebuilt from the ground up, this remake invites you to experience the unsettling story and ruthless combat of Demon’s Souls.",
+      "Released in 1993, DOOM is an FPS defining game and will live on to be one of the best FPS games and one of the most modded games.",
     purchase: "https://wadcmd.com/",
     
   },
