@@ -60,19 +60,18 @@ export const Apps = {
 export const Games = {
   demon: {
     cover:
-      "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/lEQQ9AXMadW1BN8kruQbSy8S.jpg?w=620",
-    label: "Demon's Souls",
-    keywords: "dark, miyazaki",
+      "https://archive.org/download/doomicon/Doom%20(classic).png",
+    label: "DOOM (WadCMD)",
+    keywords: "DOOM, wadCMD",
     bg:
-      "https://gmedia.playstation.com/is/image/SIEPDC/demons-souls-screenshot-04-disclaimer-en-30sept20?$1600px$",
-    tag: "Full Game",
-    price: "$ 69.99",
-    logo:
-      "https://gmedia.playstation.com/is/image/SIEPDC/demons-souls-sku-digital-deluxe-edition-logo-ps5-en-17aug20?$1600px--t$",
+      "https://cdn1.epicgames.com/offer/149849cfbf324cc2a3d42fc4e5c19f91/EGS_DOOM1993_idSoftwareNerveSoftware_S1_2560x1440-8ed1ba59ae7bc26ccbafca2e7d05792b",
+    tag: "Launch Game",
+    price: "Unbl0kd",
+    
     text:
       "Entirely rebuilt from the ground up, this remake invites you to experience the unsettling story and ruthless combat of Demon’s Souls.",
-    purchase: "https://www.playstation.com/en-us/games/demons-souls/",
-    youtube: "2TMs2E6cms4",
+    purchase: "https://wadcmd.com/",
+    
   },
   astro: {
     cover:
