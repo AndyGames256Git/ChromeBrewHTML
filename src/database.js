@@ -60,14 +60,16 @@ export const Apps = {
 export const Games = {
   demon: {
     cover:
-      "https://archive.org/download/doomicon/Doom%20(classic).png",
+      "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/efd55d2f-11a4-4df1-9bf7-1eccd3ebb813/d3hsp3f-094f83e1-40a9-4d57-a31d-31a74c7cac89.png",
     label: "DOOM (WadCMD)",
     keywords: "DOOM, wadCMD",
+    
     bg:
       "https://cdn1.epicgames.com/offer/149849cfbf324cc2a3d42fc4e5c19f91/EGS_DOOM1993_idSoftwareNerveSoftware_S1_2560x1440-8ed1ba59ae7bc26ccbafca2e7d05792b",
     tag: "Launch Game",
     price: "Unbl0kd",
-    
+    title:
+      "Play classics. DOOM 1993 is a great one.",
     text:
       "Entirely rebuilt from the ground up, this remake invites you to experience the unsettling story and ruthless combat of Demon’s Souls.",
     purchase: "https://wadcmd.com/",
